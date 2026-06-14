@@ -1,0 +1,6 @@
+{
+  "name": "Mahadev Dhaba & Family Restaurant",
+  "description": "Premium, modern family-friendly vegetarian restaurant in Ballia, Uttar Pradesh. Enjoy delicious North Indian delicacies, comfortable family cabins, hygienic dining, and exceptional customer service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
